@@ -3,7 +3,7 @@
  *
  * Generator:     sensirion-driver-generator 1.5.3
  * Product:       sen62
- * Model-Version: 1.0.2
+ * Model-Version: 1.1.0
  */
 
 #include "sen62_i2c.h"
